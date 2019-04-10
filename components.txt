@@ -1,0 +1,17 @@
+The cost of the drone:
+849 https://www.rotorama.cz/ridici-jednotky/beecore-v2
+89 https://www.rotorama.cz/ramy/betafpv-beta65s-frame-red
+89 https://www.rotorama.cz/motory/betafpv-7x16mm-17500kv-brushed-motors
+89 https://www.rotorama.cz/motory/betafpv-7x16mm-17500kv-brushed-motors
+
+Batteries:
+95 https://www.n4q.cz/dinogy-1s-220mah-50c/
+95 https://www.n4q.cz/dinogy-1s-220mah-50c/
+95 https://www.n4q.cz/dinogy-1s-220mah-50c/
+95 https://www.n4q.cz/dinogy-1s-220mah-50c/
+95 https://www.n4q.cz/dinogy-1s-220mah-50c/
+
+Radio and charger:
+3090 https://www.n4q.cz/frsky-taranis-q-x7-mod2/
+229 https://www.n4q.cz/1s-lipo-lihv-nabijec/
+
